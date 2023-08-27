@@ -1,0 +1,37 @@
+.body{
+    background-color: white;
+    margin: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.titulo{
+    font-size: 100%;
+    background-color: rgb(126, 69, 0);
+    padding: 1%;
+    color: orangered;
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    padding-left: 70%;
+}
+.table{
+    color: brown;
+    font-size: 100%;
+    padding: auto;
+    margin-left: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer{
+    background-color: orangered;
+    color: rgb(0, 0, 0);
+    padding: 3%;
+    margin: 0%;
+    font-size: 75%;
+}
+.texto{
+    padding-left: 50%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
